@@ -1,0 +1,5 @@
+---
+- name: install yum
+  hosts: all
+  tasks:
+    - name: writing
